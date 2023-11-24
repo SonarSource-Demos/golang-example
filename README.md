@@ -28,3 +28,7 @@ $ export SONAR_TOKEN="YOUR-SONARQUBE-OR-SONARCLOUD-ANALYSIS-TOKEN"
 $ export SONAR_URL="https://sonarqube.mycompany.com/"
 $ sonar-scanner
 ```
+
+## Project badges
+
+[![Quality Gate Status](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_golang-example&metric=alert_status&token=sqb_0a8642ec80539a223ca8f1bb20f5acd16978b91c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_golang-example)[![Security Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_golang-example&metric=security_rating&token=sqb_0a8642ec80539a223ca8f1bb20f5acd16978b91c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_golang-example)[![Reliability Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_golang-example&metric=reliability_rating&token=sqb_0a8642ec80539a223ca8f1bb20f5acd16978b91c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_golang-example)
